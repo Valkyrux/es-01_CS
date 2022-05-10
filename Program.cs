@@ -24,7 +24,7 @@ namespace myApp
             Console.WriteLine("Il risultato: {0}", multiply(v1, v2));
 
         }
-
+        //multiply function
         static int multiply(int a, int b)
         {
             return a * b;
